@@ -1,0 +1,20 @@
+.site__heading {
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+}
+
+.form-submit {
+    font-size: 35px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.Result {
+    background-color: aqua;
+    min-width: 100px;
+    min-height: 20px;
+}
